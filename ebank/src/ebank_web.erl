@@ -6,7 +6,7 @@
 -define(TEST, true).
 
 -compile(tuple_calls).
--include_lib("kernel/include/logger.hrl").
+%-include_lib("kernel/include/logger.hrl").
 
 -export([start/1, stop/0, loop/2]).
 
