@@ -1,1 +1,1 @@
-# erl_course
+# eBank
